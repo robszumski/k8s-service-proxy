@@ -13,5 +13,5 @@ spec:
         site: test
     spec:
       containers:
-      - image: quay.io/robszumski/robszumski.com
+      - image: quay.io/kelseyhightower/hello
         name: test
